@@ -22,4 +22,4 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ismael126895&" alt="ismael126895" /></p>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ismael126895 icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ismael126895&show  icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
