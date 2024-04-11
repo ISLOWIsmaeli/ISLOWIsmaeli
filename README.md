@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Enhancing my skills**
 
-- 🌱 I’m currently learning **Integrating APIs in Django**
+- 🌱 I’m currently learning **Developing websites in Django**
 
 - 💬 Ask me about **C++ and Arduino**
 
