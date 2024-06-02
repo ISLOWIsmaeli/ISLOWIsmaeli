@@ -23,4 +23,4 @@
 ![ISLOWIsmaeli's GitHub stats](https://github-readme-stats.vercel.app/api?username=ISLOWIsmaeli&show_icons=true&theme=radical)
 <br/>
 <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ISLOWIsmaeli&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=2&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ISLOWIsmaeli&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=10&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
